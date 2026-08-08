@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I’m Yassine 👋
 
-<!--
-**FoxPixelDev/FoxPixelDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Developer | Unity & C# |  Gameplay Enthusiast | QA Tester
 
-Here are some ideas to get you started:
+I build games in Unity, with a focus on gameplay systems. I recently graduated from ISAMM University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 What I’m aiming for
+Actively looking for entry-level roles as a Game Developer, Game Designer, or QA Tester. Open to relocation and remote opportunities.
+
+📫 Find me
+🎥 YouTube: FoxPixel_Dev
+💼 LinkedIn: yassine-sghaier
+💻 Portfolio: (coming soon)
