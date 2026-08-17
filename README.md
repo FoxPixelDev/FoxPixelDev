@@ -10,4 +10,4 @@ Actively looking for entry-level roles as a Game Developer, Game Designer, or QA
 📫 Find me
 🎥 YouTube: FoxPixel_Dev
 💼 LinkedIn: yassine-sghaier
-💻 Portfolio: (coming soon)
+💻 **Portfolio:** https://foxpixeldev.github.io/yassine-sghaier-Portfolio/
